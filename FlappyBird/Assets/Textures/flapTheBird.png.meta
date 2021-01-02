@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 34e396edd7b4ad0439c5ab6cbcc6be16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8060578232985979359
+    second: backgroundDay
+  - first:
+      213: 65087230552737757
+    second: buttonPlay
+  - first:
+      213: 4243796917257837530
+    second: backgroundNight
+  - first:
+      213: -4841243434595375752
+    second: flapTheBird_0
+  - first:
+      213: 671331924554158108
+    second: flapTheBird_1
+  - first:
+      213: 2246316152287934768
+    second: flapTheBird_2
+  - first:
+      213: -8001585994433737808
+    second: flapTheBird_3
+  - first:
+      213: 8265948213574440669
+    second: flapTheBird_4
+  - first:
+      213: 6351918341506172898
+    second: flapTheBird_5
+  - first:
+      213: -215959321571766290
+    second: flapTheBird_6
+  - first:
+      213: -3183047016870638973
+    second: flapTheBird_7
+  - first:
+      213: -8015642786280921515
+    second: flapTheBird_8
+  - first:
+      213: 557371871878884819
+    second: flapTheBird_9
+  - first:
+      213: 1553951780031214796
+    second: flapTheBird_10
+  - first:
+      213: -4162950863847774676
+    second: flapTheBird_11
+  - first:
+      213: 5848626270039088888
+    second: flapTheBird_12
+  - first:
+      213: 396704527424685496
+    second: flapTheBird_13
+  - first:
+      213: 7098207657351805799
+    second: flapTheBird_14
+  - first:
+      213: 87245001716903007
+    second: flapTheBird_15
+  - first:
+      213: -6488780292941326282
+    second: flapTheBird_16
+  - first:
+      213: 7517041438997868339
+    second: flapTheBird_17
+  - first:
+      213: 2270928496219510122
+    second: flapTheBird_18
+  - first:
+      213: 3514685516065129713
+    second: tap
+  - first:
+      213: -8802216796146244253
+    second: flapTheBird_20
+  - first:
+      213: -719140467199826595
+    second: flapTheBird_21
+  - first:
+      213: -6456120120633581453
+    second: flapTheBird_22
+  - first:
+      213: 5882774446684907499
+    second: flapTheBird_23
+  - first:
+      213: 2546486942008612048
+    second: flapTheBird_24
+  - first:
+      213: 6529430370822849797
+    second: flapTheBird_25
+  - first:
+      213: 7014556678923430496
+    second: flapTheBird_26
+  - first:
+      213: -2899513167506276838
+    second: flapTheBird_27
+  - first:
+      213: 6463320876692279777
+    second: flapTheBird_28
+  - first:
+      213: -6610775676858613322
+    second: flapTheBird_29
+  - first:
+      213: -7735395760664821389
+    second: flapTheBird_30
+  - first:
+      213: -2171270021786502335
+    second: flapTheBird_31
+  - first:
+      213: 1547422487278078007
+    second: flapTheBird_32
+  - first:
+      213: 4083334449452362148
+    second: flapTheBird_33
+  - first:
+      213: -3481257734817776570
+    second: flapTheBird_34
+  - first:
+      213: -1434453533641220272
+    second: flapTheBird_35
+  - first:
+      213: 2562640282634746985
+    second: flapTheBird_36
+  - first:
+      213: 4705849785949365276
+    second: flapTheBird_37
+  - first:
+      213: -4633717541867414080
+    second: flapTheBird_38
+  - first:
+      213: 7228135187350762276
+    second: flapTheBird_39
+  - first:
+      213: -489945496474898477
+    second: flapTheBird_40
+  - first:
+      213: 1522215123053565332
+    second: flapTheBird_41
+  - first:
+      213: 3704989596558314512
+    second: flapTheBird_42
+  - first:
+      213: 83599722229235601
+    second: flapTheBird_43
+  - first:
+      213: -7917920120844795840
+    second: flapTheBird_44
+  - first:
+      213: 3061067093376620391
+    second: flapTheBird_45
+  - first:
+      213: 4418562761391295158
+    second: flapTheBird_46
+  - first:
+      213: -7450641133135805046
+    second: flapTheBird_47
+  - first:
+      213: 5344234804178151792
+    second: flapTheBird_48
+  - first:
+      213: -3999244932869436637
+    second: flapTheBird_49
+  - first:
+      213: -2973711215301144291
+    second: flapTheBird_50
+  - first:
+      213: -2518858173000437754
+    second: flapTheBird_51
+  - first:
+      213: 4257756087119297103
+    second: flapTheBird_52
+  - first:
+      213: -4209856061903855889
+    second: flapTheBird_53
+  - first:
+      213: -2515910822217169103
+    second: flapTheBird_54
+  - first:
+      213: -7645350187636778108
+    second: flapTheBird_55
+  - first:
+      213: 6923604202935829604
+    second: flapTheBird_56
+  - first:
+      213: 1463233750315975322
+    second: flapTheBird_57
+  - first:
+      213: 441668188455907579
+    second: flapTheBird_58
+  - first:
+      213: 2485191249100806369
+    second: flapTheBird_59
+  - first:
+      213: -669120597929700282
+    second: flapTheBird_60
+  - first:
+      213: -5132490966477941684
+    second: flapTheBird_61
+  - first:
+      213: -4655974963651941752
+    second: flapTheBird_62
+  - first:
+      213: -9001078010445634114
+    second: flapTheBird_63
+  - first:
+      213: -6679706602250670370
+    second: flapTheBird_64
+  - first:
+      213: -226229793966710181
+    second: flapTheBird_65
+  - first:
+      213: -7839241765186962677
+    second: flapTheBird_66
+  - first:
+      213: -5571080665788770314
+    second: flapTheBird_67
+  - first:
+      213: -4332097919922452976
+    second: flapTheBird_68
+  - first:
+      213: -7369866059235052183
+    second: flapTheBird_69
+  - first:
+      213: 6252528809626943886
+    second: flapTheBird_70
+  - first:
+      213: -1352456794662873601
+    second: flapTheBird_71
+  - first:
+      213: -4953344344584758708
+    second: flapTheBird_72
+  - first:
+      213: -4078314291273983490
+    second: flapTheBird_73
+  - first:
+      213: -2856867211721132453
+    second: flapTheBird_74
+  - first:
+      213: 8594698783447520774
+    second: flapTheBird_75
+  - first:
+      213: 8060578232985979359
+    second: flapTheBird_0
+  - first:
+      213: 65087230552737757
+    second: flapTheBird_1
+  - first:
+      213: 4243796917257837530
+    second: flapTheBird_2
+  - first:
+      213: -3816860116770520032
+    second: flapTheBird_3
+  - first:
+      213: 1450614198517840132
+    second: flapTheBird_4
+  - first:
+      213: 6618417813254875423
+    second: flapTheBird_5
+  - first:
+      213: 3428900329048056219
+    second: flapTheBird_6
+  - first:
+      213: 1396208384492858258
+    second: flapTheBird_7
+  - first:
+      213: -3841588751141401109
+    second: flapTheBird_8
+  - first:
+      213: -378039808039233794
+    second: flapTheBird_9
+  - first:
+      213: 6961057171837598056
+    second: flapTheBird_10
+  - first:
+      213: -1714556617977392260
+    second: flapTheBird_11
+  - first:
+      213: 7418526945696724579
+    second: flapTheBird_12
+  - first:
+      213: 5780370315655545928
+    second: flapTheBird_13
+  - first:
+      213: -7036825668683623054
+    second: flapTheBird_14
+  - first:
+      213: -8467788697566967478
+    second: flapTheBird_15
+  - first:
+      213: -244298368817106500
+    second: flapTheBird_16
+  - first:
+      213: 4969541159004736252
+    second: flapTheBird_17
+  - first:
+      213: -2618534110382244223
+    second: flapTheBird_18
+  - first:
+      213: -6580160423581269295
+    second: tap
+  - first:
+      213: 7395372891015378308
+    second: flapTheBird_20
+  - first:
+      213: 6183482322012853399
+    second: flapTheBird_21
+  - first:
+      213: 882231378691608072
+    second: flapTheBird_22
+  - first:
+      213: -3250450925199824752
+    second: flapTheBird_23
+  - first:
+      213: -2448692138026378364
+    second: flapTheBird_24
+  - first:
+      213: 7804749911375941212
+    second: flapTheBird_25
+  - first:
+      213: 1615136141805601654
+    second: flapTheBird_26
+  - first:
+      213: -2997248600237452298
+    second: flapTheBird_27
+  - first:
+      213: 2710541287069848049
+    second: flapTheBird_28
+  - first:
+      213: -7027529132695263950
+    second: flapTheBird_29
+  - first:
+      213: 768387886649071869
+    second: flapTheBird_30
+  - first:
+      213: -6184600966769597172
+    second: flapTheBird_31
+  - first:
+      213: -863743578870275924
+    second: flapTheBird_32
+  - first:
+      213: 4498730602747644075
+    second: flapTheBird_33
+  - first:
+      213: 7229376372576265242
+    second: flapTheBird_34
+  - first:
+      213: 4258668363728646915
+    second: flapTheBird_35
+  - first:
+      213: -4976556988760063038
+    second: flapTheBird_36
+  - first:
+      213: -2861981258177555950
+    second: flapTheBird_37
+  - first:
+      213: -8868864282793965260
+    second: flapTheBird_38
+  - first:
+      213: -5460417850529259306
+    second: flapTheBird_39
+  - first:
+      213: 7303395207048471348
+    second: flapTheBird_40
+  - first:
+      213: -4193271371175074451
+    second: flapTheBird_41
+  - first:
+      213: -8114177926307759340
+    second: flapTheBird_42
+  - first:
+      213: -6318068789192769076
+    second: flapTheBird_43
+  - first:
+      213: 4477796355024755556
+    second: flapTheBird_44
+  - first:
+      213: 6899961549453333078
+    second: flapTheBird_45
+  - first:
+      213: -9012667284687209037
+    second: flapTheBird_46
+  - first:
+      213: -2463085452312404776
+    second: flapTheBird_47
+  - first:
+      213: -1275557012605615802
+    second: flapTheBird_48
+  - first:
+      213: 7149044960638796327
+    second: flapTheBird_49
+  - first:
+      213: -3080844598761986986
+    second: flapTheBird_50
+  - first:
+      213: 2013063395135566001
+    second: flapTheBird_51
+  - first:
+      213: -7163769622926423381
+    second: flapTheBird_52
+  - first:
+      213: -4010923772747286708
+    second: flapTheBird_53
+  - first:
+      213: 132511919235380962
+    second: flapTheBird_54
+  - first:
+      213: 1791485515637713198
+    second: flapTheBird_55
+  - first:
+      213: -6394126413610756317
+    second: flapTheBird_56
+  - first:
+      213: 3268907340206672170
+    second: flapTheBird_57
+  - first:
+      213: 3495920282100989274
+    second: flapTheBird_58
+  - first:
+      213: -1583328787255200019
+    second: flapTheBird_59
+  - first:
+      213: 6273886113958033782
+    second: flapTheBird_60
+  - first:
+      213: -1210396476533196522
+    second: flapTheBird_61
+  - first:
+      213: -6558752783837625249
+    second: flapTheBird_62
+  - first:
+      213: -4305353962298288485
+    second: flapTheBird_63
+  - first:
+      213: -5381258175240861432
+    second: flapTheBird_64
+  - first:
+      213: -2474130861636936041
+    second: flapTheBird_65
+  - first:
+      213: -565109448856558289
+    second: flapTheBird_66
+  - first:
+      213: -5575245021662774695
+    second: flapTheBird_67
+  - first:
+      213: 7743237384486160710
+    second: flapTheBird_68
+  - first:
+      213: 3622292727669259135
+    second: flapTheBird_69
+  - first:
+      213: -5257185743251209058
+    second: flapTheBird_70
+  - first:
+      213: -2618708051825392499
+    second: flapTheBird_71
+  - first:
+      213: 5679103818208596542
+    second: flapTheBird_72
+  - first:
+      213: 9202937533672500047
+    second: flapTheBird_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flapTheBird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90065323decdf60800000000000000
+      internalID: 8060578232985979359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78288cd7c37e000800000000000000
+      internalID: 65087230552737757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 912
+        width: 336
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1d08cfcef4ea30800000000000000
+      internalID: 4243796917257837530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 854
+        width: 204
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73992e07dba438e0800000000000000
+      internalID: -1714556617977392260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 793
+        width: 179
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f27b8de31c9cf0800000000000000
+      internalID: -244298368817106500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tap
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 744
+        width: 115
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2ca5b35f29ea4a0800000000000000
+      internalID: -6580160423581269295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 416
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332a6aee3fda5560800000000000000
+      internalID: 7303395207048471348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652150fb87691cf50800000000000000
+      internalID: 6899961549453333078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3f611bd29ce280800000000000000
+      internalID: -9012667284687209037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc9c73c4dc51ddd0800000000000000
+      internalID: -2463085452312404776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546c921924ae35d0800000000000000
+      internalID: -3080844598761986986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 238
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b78273e6c6d100800000000000000
+      internalID: 132511919235380962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 186
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d76b179f0048030800000000000000
+      internalID: 3495920282100989274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 134
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bada41dec33fe0800000000000000
+      internalID: -1210396476533196522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64982d13061857b60800000000000000
+      internalID: 7743237384486160710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_69
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bf4394b08f44230800000000000000
+      internalID: 3622292727669259135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9483479b69ba07b0800000000000000
+      internalID: -5257185743251209058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flapTheBird_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840e70c6ea78abd0800000000000000
+      internalID: -2618708051825392499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
